@@ -19,10 +19,10 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Teaching Assistant"
-  company = "GenCoin"
+  company = ""
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Mannheim, Germany"
+  date_start = "2019-10-01"
   date_end = ""
   description = "Taught multiple classes of 20-25 students in Research Design and Methods including designing lesson plans, preparing materials and grading exams. These classes were in person in Fall 2019 and online via Zoom in Fall 2020."
   """
