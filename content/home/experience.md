@@ -28,6 +28,17 @@ date_format = "Jan 2006"
   """
  [[experience]]
   title = "Research Assistant"
+  company = "Mannheim Center for European Social Research (MZES)"
+  company_url = ""
+  location = "Mannheim, Germany"
+  date_start = "2020-05-01"
+  date_end = ""
+  description = """ 
+  * Participated in the Corona Studies
+  * Collected data on political awareness
+  """
+   [[experience]]
+  title = "Research Assistant"
   company = "Collaborative Research Center Political Economy of Reforms"
   company_url = ""
   location = "Mannheim, Germany"
