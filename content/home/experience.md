@@ -24,12 +24,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2017-01-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  description = "Taught multiple classes of 20-25 students in Research Design and Methods including designing lesson plans, preparing materials and grading exams. These classes were in person in Fall 2019 and online via Zoom in Fall 2020."
   """
   
  [[experience]]
@@ -51,7 +46,7 @@ date_format = "Jan 2006"
   title = "Data Science Advisory"
   company = "Prof. Vera Tröger"
   company_url = ""
-  location = "Hamburg"
+  location = "Hamburg/Mannheim, Germany"
   date_start = "2020-01-09"
   date_end = ""
   description = """Consulted Prof. Tröger on issues related to web scraping with R and Python """
