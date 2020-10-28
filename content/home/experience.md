@@ -27,29 +27,18 @@ date_format = "Jan 2006"
   description = """Taught multiple classes of 20-25 students in Research Design and Methods including designing lesson plans, preparing materials and grading exams. These classes were in person in Fall 2019 and online via Zoom in Fall 2020.
   """
  [[experience]]
-  title = "Teaching Assistant"
-  company = "University of Mannheim"
-  company_url = ""
-  location = "Mannheim, Germany"
-  date_start = "2019-10-01"
-  date_end = ""
-  description = """Taught multiple classes of 20-25 students in Research Design and Methods including designing lesson plans, preparing materials and grading exams. These classes were in person in Fall 2019 and online via Zoom in Fall 2020.
-  """
-  [[experience]]
   title = "Research Assistant"
   company = "Collaborative Research Center "Political Economy of Reforms""
   company_url = ""
   location = "Mannheim, Germany"
   date_start = "2020-02-01"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = """ Responsibilities include:
   
   * Applied machine learning in R
   * Analysis of decision-making processes of the German Federal Constitutional Court
   * Data preparation in Python
   """
-
 [[experience]]
   title = "Data Science Advisory"
   company = "Prof. Vera Tröger"
