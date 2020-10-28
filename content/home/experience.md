@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Teaching Assistant"
-  company = ""
+  company = "University of Mannheim"
   company_url = ""
   location = "Mannheim, Germany"
   date_start = "2019-10-01"
@@ -29,17 +29,17 @@ date_format = "Jan 2006"
   
  [[experience]]
   title = "Research Assistant"
-  company = "GenCoin"
+  company = "Collaborative Research Center "Political Economy of Reforms""
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Mannheim, Germany"
+  date_start = "2020-02-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Applied machine learning in R
+  * Analysis of decision-making processes of the German Federal Constitutional Court
+  * Data preparation in Python
   """
 
 [[experience]]
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   company = "Prof. Vera Tröger"
   company_url = ""
   location = "Hamburg/Mannheim, Germany"
-  date_start = "2020-01-09"
+  date_start = "2020-09-01"
   date_end = ""
   description = """Consulted Prof. Tröger on issues related to web scraping with R and Python """
 
