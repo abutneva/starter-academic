@@ -71,6 +71,6 @@ First of all, I am delighted to welcome you on my personal website! I am a senio
 Some concluding remarks:
 - I am teaching Empirical Political Research sessions in Fall 2020, so if this area interests you, you can refer to my presentations, affiliated literature, and projects delivered by my students under "Posts." I am open to suggestions and constructive criticism!
 - For an overview of my (collaborative) research projects at the Collaborative Research Center "Political Economy of Reforms" and my independent research, please refer to "Projects".
-- Should you be interested in my publications in Russian scientific journals in the , take a look at the "Publications" section.
+- Should you be interested in my publications in Russian scientific journals, take a look at the "Publications" section.
 </div>
 
