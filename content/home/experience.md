@@ -44,8 +44,7 @@ date_format = "Jan 2006"
   location = "Mannheim, Germany"
   date_start = "2020-02-01"
   date_end = ""
-  description = """ Responsibilities include:
-  
+  description = """ 
   * Applied machine learning in R
   * Analysis of decision-making processes of the German Federal Constitutional Court
   * Data preparation in Python
