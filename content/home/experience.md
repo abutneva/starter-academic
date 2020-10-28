@@ -49,6 +49,7 @@ date_format = "Jan 2006"
   location = "Hamburg/Mannheim, Germany"
   date_start = "2020-09-01"
   date_end = ""
-  description = """Consulted Prof. Tröger on issues related to web scraping with R and Python """
+  description = """Consulted Prof. Tröger on issues related to web scraping with R and Python 
+  """
 
 +++
