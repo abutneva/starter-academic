@@ -26,6 +26,15 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Taught multiple classes of 20-25 students in Research Design and Methods including designing lesson plans, preparing materials and grading exams. These classes were in person in Fall 2019 and online via Zoom in Fall 2020.
   """
+  [[experience]]
+  title = "Teaching Assistant"
+  company = "University of Mannheim"
+  company_url = ""
+  location = "Mannheim, Germany"
+  date_start = "2019-10-01"
+  date_end = ""
+  description = """Taught multiple classes of 20-25 students in Research Design and Methods including designing lesson plans, preparing materials and grading exams. These classes were in person in Fall 2019 and online via Zoom in Fall 2020.
+  """
   
  [[experience]]
   title = "Research Assistant"
