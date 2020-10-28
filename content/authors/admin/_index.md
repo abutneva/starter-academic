@@ -6,12 +6,12 @@ title: Aleksandra Butneva
 superuser: true
 
 # Role/position
-role: Research Assistant a 
+role: Research Assistant at the Chair for Quantitative Methods in Social Sciences  
 
 # Organizations/Affiliations
 organizations:
 - name: University of Mannheim
-  url: ""
+  url: "https://www.sowi.uni-mannheim.de/gschwend/team/research-assistants/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My methodological interests include quantitative political science, machine learning, and large-scale quantitative text analysis.
@@ -62,9 +62,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My name is Aleksandra, but most people call me Sasha, which is the shortened version of Aleksandra in several Eastern European countries (my colleagues and students have asked this question multiple times, so I decided to make it clear from the very beginning). I am deligthed to welcome you on my personal website! I am a senior Political Science and Economics student at the University of Mannheim in Germany.
