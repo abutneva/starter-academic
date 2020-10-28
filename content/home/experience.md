@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   """
  [[experience]]
   title = "Research Assistant"
-  company = "Collaborative Research Center "Political Economy of Reforms""
+  company = "Collaborative Research Center Political Economy of Reforms"
   company_url = ""
   location = "Mannheim, Germany"
   date_start = "2020-02-01"
@@ -39,5 +39,13 @@ date_format = "Jan 2006"
   * Analysis of decision-making processes of the German Federal Constitutional Court
   * Data preparation in Python
   """
-
+[[experience]]
+  title = "Data Science Advisory"
+  company = "Prof. Vera Tröger"
+  company_url = ""
+  location = "Hamburg/Mannheim, Germany"
+  date_start = "2020-09-01"
+  date_end = ""
+  description = """Consulted Prof. Tröger on issues related to web scraping with R and Python 
+  """
 +++
