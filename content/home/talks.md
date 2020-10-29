@@ -4,11 +4,11 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Studying in Mannheim Allows Me to Perfectly Combine Research and Student Life"
-subtitle = "Interview for Mannheim Stories"
+title = "Recent & Upcoming Talks"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -27,8 +27,8 @@ subtitle = "Interview for Mannheim Stories"
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "Interview for Mannheim Stories"
-    author = "University of Mannheim"
+    publication_type = ""
+    author = ""
     exclude_featured = false
     exclude_past = false
     exclude_future = false
@@ -37,8 +37,8 @@ subtitle = "Interview for Mannheim Stories"
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
-     3 = Card
-  #  4 = Citation (publication only)
+  #   3 = Card
+  #   4 = Citation (publication only)
   view = 2
   
 [design.background]
@@ -48,11 +48,11 @@ subtitle = "Interview for Mannheim Stories"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "navy"
+  # color = "navy"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
-   gradient_end = "SkyBlue"
+  # gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/media/`.
@@ -64,7 +64,3 @@ subtitle = "Interview for Mannheim Stories"
 [advanced]
  # Custom CSS. 
  css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
