@@ -18,20 +18,40 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "90% - Daily Use"
+
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "25% - Basics"  
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "30% - Basics, NLP, Pandas, Interative Plots"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "75% "  
+  
+ [[feature]]
+  icon = "latex"
+  icon_pack = "fas"
+  name = "LateX"
+  description = "95% - Daily use "   
+  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
+  icon = "github"
+  icon_pack = "fab"
+  name = "Git"
+  description = "50%"
+  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
