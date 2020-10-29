@@ -40,7 +40,7 @@ subtitle = ""
   description = "75% "  
   
  [[feature]]
-  icon = "latex"
+  icon = "feather"
   icon_pack = "fas"
   name = "LateX"
   description = "95% - Daily use "   
