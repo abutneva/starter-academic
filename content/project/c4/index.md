@@ -2,7 +2,7 @@
 title: Measuring a common space and the dynamics of reform positions: Non-standard tools, non-standard actors
 summary: Assessing Judicial Power
 tags:
--  Quantitative Text Analysis
+- Quantitative Text Analysis
 date: "2020-02-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
