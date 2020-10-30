@@ -31,4 +31,4 @@ slides: example
 ---
 
 
-Take a look at the [project page](https://msaeltzer.shinyapps.io/birdfish/) at the Collaborative Research Center "Political Economy of Reforms".
+Take a look at the [project page](https://reforms.uni-mannheim.de/projects/project_group_c/project_c4/) at the Collaborative Research Center "Political Economy of Reforms".
