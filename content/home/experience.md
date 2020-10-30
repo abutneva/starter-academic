@@ -7,7 +7,7 @@ weight = 40  # Order that this section will appear.
 
 title = " Academic Experience"
 subtitle = ""
-
+<div style="text-align: justify;font-family:serif;">
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
@@ -19,7 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-<div style="text-align: justify;font-family:serif;">
   title = "Teaching Assistant"
   company = "University of Mannheim"
   company_url = ""
