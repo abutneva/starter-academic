@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-09-01"
   date_end = ""
-  description = "109 overall"
+  description = ""
 
 [[item]]
   organization = "German Academic Exchange Service (DAAD)"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-09-01"
   date_end = ""
-  description = "Awarded with one of four exclusive scholarships for the pursuit of a Bachelor’s degree in Germany" 
+  description = "" 
 
 [[item]]
   organization = "European Forum Alpbach"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-08-01"
   date_end = "2021-09-01"
-  description = "Discussant and speaker of the EFA’s 75th online conference 2020" 
+  description = "" 
 
 
 +++
