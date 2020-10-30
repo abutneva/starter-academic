@@ -4,6 +4,7 @@ widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
+mainfont: serif
 
 title = " Academic Experience"
 subtitle = ""
@@ -26,7 +27,7 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = ""
   description = """
-  <div style="text-align: justify;font-family:serif;">Taught multiple classes of 20-25 students in Research Design and Methods including designing lesson plans, preparing materials and grading exams. These classes were in person in Fall 2019 and online via Zoom in Fall 2020.
+  Taught multiple classes of 20-25 students in Research Design and Methods including designing lesson plans, preparing materials and grading exams. These classes were in person in Fall 2019 and online via Zoom in Fall 2020.
   """
  [[experience]]
   title = "Research Assistant"
@@ -60,5 +61,5 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Consulted Prof. Tröger on issues related to web scraping with R and Python 
   """
-  </div>
+
 +++
