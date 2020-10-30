@@ -26,5 +26,5 @@ author = "admin"
   # gradient_end = "SkyBlue"
   
   # Background image.
-   image = "back2.jpg"  # Name of image in `static/media/`.
+   image = "back3.jpg"  # Name of image in `static/media/`.
 +++
