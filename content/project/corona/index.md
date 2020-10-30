@@ -1,5 +1,5 @@
 ---
-title: Twitter in COVID-19 times
+title: Twitter, Trump, and Coronavirus
 summary: Analyzing public sentiment in light of the ongoing pandemic
 tags:
 - quantitative text analysis
