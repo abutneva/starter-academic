@@ -9,10 +9,10 @@ date: "2020-02-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: ""
+  caption: 
   focal_point: Smart
 
-links:""
+links: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
