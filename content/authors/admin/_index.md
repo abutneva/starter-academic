@@ -14,9 +14,9 @@ organizations:
   url: "https://www.sowi.uni-mannheim.de/gschwend/team/research-assistants/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: <div style="text-align: justify;font-family:serif;font-size:16px;"> 
-My methodological interests include quantitative political science, machine learning, and large-scale quantitative text analysis.
+bio: My methodological interests include quantitative political science, machine learning, and large-scale quantitative text analysis.
 
+<div style="text-align: justify;font-family:serif;font-size:16px;"> 
 interests:
 - Political Methodology
 - Comparative Politics 
