@@ -22,7 +22,7 @@ interests:
 - Comparative Politics 
 - Game Theory
 - Computational Linguistics
-<div>
+</div>
 
 education:
   courses:
