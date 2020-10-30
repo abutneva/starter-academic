@@ -2,7 +2,7 @@
 title: Twitter in COVID-19 times
 summary: Analyzing public sentiment in light of the ongoing pandemic
 tags:
-- quantitative text analysis
+- On the Verge of a Digital Relovution: Healthcare Systems
 - topic models
 - BTM
 date: "2020-08-27T00:00:00Z"
