@@ -11,7 +11,7 @@ date: "2020-08-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Law and Politics
+  caption: When Does Public Opinion Win?
   focal_point: Smart
 
 links:
