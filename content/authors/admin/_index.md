@@ -16,7 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My methodological interests include quantitative political science, machine learning, and large-scale quantitative text analysis.
 
-<div style="text-align: justify;font-family:goudy old style;font-size:16px"> 
+<div style="text-align: justify;font-family:ink free;font-size:16px"> 
 interests:
 - Political Methodology
 - Comparative Politics 
