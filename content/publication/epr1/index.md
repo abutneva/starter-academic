@@ -3,8 +3,10 @@ title: "Man is so intelligent that he feels impelled to invent theories to accou
 
 authors:
 - Aleksandra Butneva
+- Political Science Students in Fall 2020
 author_notes:
-
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2020-10-20T00:00:00Z"
 doi: 
