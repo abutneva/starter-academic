@@ -73,7 +73,7 @@ My website is structured as follows:
 - I am teaching Empirical Political Research sessions in Fall 2020, so if this area interests you, you can refer to my presentations, affiliated literature, and projects delivered by my students under "Posts." I am open to suggestions and constructive criticism!
 - For an overview of my (collaborative) research projects at the Collaborative Research Center "Political Economy of Reforms" and my independent research, please refer to "Projects".
 - Should you be interested in my publications in Russian scientific journals, take a look at the "Publications" section.
-- Lastly, check out my academic record under "CV" for a consise summary of my cans and cants.
+- Lastly, check out my academic record under "CV."
 
 Have fun!
 </div>
