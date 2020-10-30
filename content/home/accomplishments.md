@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards and Certificates"
 subtitle = ""
 
 # Date format
@@ -28,6 +28,19 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
   
+  
+[[item]]
+  organization = "Federal Government of Russia"
+  organization_url = ""
+  title = "Presidential Grant for outstanding academic performance and winner of the German language competition in Russia"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-06-01"
+  date_end = ""
+  description = ""
+  
+  
+
 [[item]]
   organization = "The Society for Political Methodology"
   organization_url = ""
