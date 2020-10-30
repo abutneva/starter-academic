@@ -2,8 +2,9 @@
 title: On the Verge of a Digital Relovution: Healthcare Systems
 summary: Enhancing natural language processing for Russian
 tags:
-- deep learning
-- NLP
+- Python
+- SpaCy
+- Stanza
 
 date: "2020-08-27T00:00:00Z"
 
