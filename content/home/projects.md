@@ -40,7 +40,7 @@ subtitle = ""
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
-      3 = Card
+  #   3 = Card
   #   5 = Showcase
   view = 3
 
