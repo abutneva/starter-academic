@@ -1,5 +1,5 @@
 ---
-title: On the Verge of a Digital Relovution: Healthcare Systems
+title: Healthcare Systems On the Verge of a Digital Relovution
 summary: Enhancing natural language processing for Russian
 tags:
 - Python
