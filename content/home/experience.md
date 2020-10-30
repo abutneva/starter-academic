@@ -55,5 +55,21 @@ date_format = "Jan 2006"
   date_start = "2020-09-01"
   date_end = ""
   description = ""
+  
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+  
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  
+  # Background image.
+   image = "back1.jpg"  # Name of image in `static/media/`.
 
 +++
