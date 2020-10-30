@@ -1,8 +1,8 @@
 ---
-title: Birdfish
-summary: Estimating Poltician's Ideology from Twitter
+title: https://reforms.uni-mannheim.de/projects/project_group_c/project_c4/
+summary: Assessing courts' argumentation with quantitative techniques
 tags:
-- Ideal Point Estimation
+- quantitative text analysis
 date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -16,7 +16,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/marius_saeltzer
+  url: https://twitter.com/abutneva
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,5 +30,5 @@ url_video: ""
 slides: example
 ---
 
-At the core of my dissertation, I developed a way to scale Twitter text into ideological positions. Applying canonical correspondence analysis, I estimate and visualize ideological dimensions and the positions individual politicians take on it. This allows answering diverse research questions from representation, agenda setting and factionalism. In contrast to its inspiration, wordfish , by Jonathan Slapin and Sven-Oliver Proksch, it allows extracting multiple dimensions and therefore makes application to noisy social media text more feasible. I deployed a shiny app to visualize these results.
-Take a look at the [Shiny App](https://msaeltzer.shinyapps.io/birdfish/)
+
+Take a look at the [project page](https://msaeltzer.shinyapps.io/birdfish/) at the Collaborative Research Center "Political Economy of Reforms".
