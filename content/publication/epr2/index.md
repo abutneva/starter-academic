@@ -25,7 +25,7 @@ publishDate: "2020-10-21T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Designing expiriments in political science as an undergraduate student.*"
+publication: "*Designing experiments in political science as an undergraduate student.*"
 publication_short: ""
 
 abstract: 
@@ -54,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Psychology Department**](https://www.yu.edu/yeshiva-college/ug/psychology)'
+  caption: 'Image credit: [*Psychology Department*]'(https://www.yu.edu/yeshiva-college/ug/psychology)'
   focal_point: ""
   preview_only: false
 
