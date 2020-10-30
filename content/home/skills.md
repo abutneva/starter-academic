@@ -20,12 +20,6 @@ subtitle = ""
   name = "R"
   description = "90% - Daily Use"
 
-
-[[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "SQL"
-  description = "25% - Basics"  
   
 [[feature]]
   icon = "python"
@@ -51,6 +45,12 @@ subtitle = ""
   icon_pack = "fab"
   name = "Git"
   description = "50%"
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "25% - Basics"  
   
 # Uncomment to use emoji icons.
 # [[feature]]
