@@ -26,7 +26,18 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-09-01"
   date_end = ""
-  description = "109"
+  description = "109 overall"
+
+[[item]]
+  organization = "German Academic Exchange Service"
+  organization_url = ""
+  title = " Study Scholarship for the best graduates of
+German Schools abroad"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-09-01"
+  date_end = ""
+  description = "109 overall" 
 
 
 +++
