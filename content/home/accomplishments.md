@@ -85,5 +85,5 @@ date_format = "Jan 2006"
   # gradient_end = "SkyBlue"
   
   # Background image.
-   image = "back2.jpg"  # Name of image in `static/media/`.
+   image = "back1.jpg"  # Name of image in `static/media/`.
 +++
