@@ -40,7 +40,7 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:alexabutneva@mail.ru".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/abutneva
+  link: https://twitter.com/alexabutneva
 - icon: github
   icon_pack: fab
   link: https://github.com/abutneva
