@@ -22,12 +22,13 @@ interests:
 - Comparative Politics 
 - Game Theory
 - Computational Linguistics
+<div>
 
 education:
   courses:
   - course: Bachelor of Arts in Political Science (in progress)
     institution: University of Mannheim
-    year: 2021<div>
+    year: 2021
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
