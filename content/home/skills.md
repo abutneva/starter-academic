@@ -25,7 +25,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "30% - Basics, NLP, Pandas, Interative Plots"
+  description = "40% - Basics, NLP, Pandas, Interactive Plots"
   
 [[feature]]
   icon = "chart-line"
