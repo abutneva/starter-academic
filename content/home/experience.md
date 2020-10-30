@@ -7,7 +7,7 @@ weight = 40  # Order that this section will appear.
 
 title = " Academic Experience"
 subtitle = ""
-<div style="text-align: justify;font-family:serif;">
+
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
@@ -25,7 +25,8 @@ date_format = "Jan 2006"
   location = "Mannheim, Germany"
   date_start = "2019-10-01"
   date_end = ""
-  description = """Taught multiple classes of 20-25 students in Research Design and Methods including designing lesson plans, preparing materials and grading exams. These classes were in person in Fall 2019 and online via Zoom in Fall 2020.
+  description = """
+  <div style="text-align: justify;font-family:serif;">Taught multiple classes of 20-25 students in Research Design and Methods including designing lesson plans, preparing materials and grading exams. These classes were in person in Fall 2019 and online via Zoom in Fall 2020.
   """
  [[experience]]
   title = "Research Assistant"
