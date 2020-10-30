@@ -26,9 +26,9 @@ interests:
 
 education:
   courses:
-  - course: Bachelor of Arts in Political Science (in progress)
+  - course: Bachelor of Arts in Political Science 
     institution: University of Mannheim
-    year: 2021
+    year: 2021 (in progress)
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
