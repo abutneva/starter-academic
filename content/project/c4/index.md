@@ -9,7 +9,7 @@ date: "2020-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: ""
+  caption: Law and Politics
   focal_point: Smart
 
 links:
