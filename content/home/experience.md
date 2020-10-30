@@ -22,13 +22,12 @@ date_format = "Jan 2006"
 [[experience]]
   mainfont = 'serif'
   title = "Teaching Assistant"
-  company = "University of Mannheim"
+  company = "University of Mannheim, Quantitative Methods"
   company_url = ""
   location = "Mannheim, Germany"
   date_start = "2019-10-01"
   date_end = ""
   description = """
-  * Taught multiple classes of 20-25 students in Research Design and Methods including designing lesson plans, preparing materials and grading exams. These classes were in person in Fall 2019 and online via Zoom in Fall 2020.
   """
  [[experience]]
   title = "Research Assistant"
@@ -48,10 +47,7 @@ date_format = "Jan 2006"
   location = "Mannheim, Germany"
   date_start = "2020-02-01"
   date_end = ""
-  description = """ 
-  * Applied machine learning in R
-  * Analysis of decision-making processes of the German Federal Constitutional Court
-  * Data preparation in Python
+  description = """
   """
 [[experience]]
   title = "Data Science Advisory"
@@ -60,7 +56,7 @@ date_format = "Jan 2006"
   location = "Hamburg/Mannheim, Germany"
   date_start = "2020-09-01"
   date_end = ""
-  description = """ * Consulted Prof. Tröger on issues related to web scraping with R and Python 
+  description = """
   """
 
 +++
