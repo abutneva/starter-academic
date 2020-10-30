@@ -9,10 +9,14 @@ date: "2020-02-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 
+  caption: Birdfish
   focal_point: Smart
 
-
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/abutneva
 url_code: ""
 url_pdf: ""
 url_slides: ""
