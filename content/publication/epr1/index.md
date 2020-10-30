@@ -2,7 +2,7 @@
 <div style="text-align: justify;font-family:serif;font-size:25px"> 
 title: "Man is so intelligent that he feels impelled to invent theories to account for what happens in the world. Unfortunately, he is not quite intelligent enough, in most cases, to find correct explanations. So that when he acts on his theories, he behaves very often like a lunatic. "
 
-subtitle: "by Aldous Huxley"
+subtitle: "(c) Aldous Huxley"
 </div>:
 authors:
 - Aleksandra Butneva
