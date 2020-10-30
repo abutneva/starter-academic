@@ -22,7 +22,8 @@ interests:
 - Comparative Politics 
 - Game Theory
 - Computational Linguistics
-</div>
+</div:>
+
 education:
   courses:
   - course: Bachelor of Arts in Political Science (in progress)
