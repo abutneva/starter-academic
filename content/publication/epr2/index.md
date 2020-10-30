@@ -2,9 +2,9 @@
 ---
 <div style="text-align: justify;font-family:serif;font-size:25px"> 
 title: "All life is an experiment. The more experiments you make the better. "
-
 subtitle: "Quoting Ralph Waldo Emerson"
 </div>:
+
 authors:
 - Aleksandra Butneva
 - Political Science Students in Fall 2020
