@@ -1,6 +1,6 @@
 ---
 title: https://reforms.uni-mannheim.de/projects/project_group_c/project_c4/
-summary: Assessing courts' argumentation with quantitative techniques
+summary: Assessing judicial power
 tags:
 - quantitative text analysis
 date: "2020-04-27T00:00:00Z"
