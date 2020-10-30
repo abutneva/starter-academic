@@ -4,7 +4,7 @@ widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
-mainfont = 'serif'
+
 
 title = " Academic Experience"
 subtitle = ""
@@ -20,6 +20,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  mainfont = 'serif'
   title = "Teaching Assistant"
   company = "University of Mannheim"
   company_url = ""
