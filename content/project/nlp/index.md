@@ -34,5 +34,4 @@ url_video: ""
 slides: example
 ---
 
-
 Our project promotes innovation in e-health. We improve language processing for Russian and introduce a variety of terms related to telemedicine. We then implement NLP in Python and develop HTML-applications and interactive graphs that enhance reciprocal relationships between patients, doctors, and insurance.
