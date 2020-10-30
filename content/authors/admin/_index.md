@@ -71,6 +71,5 @@ I am delighted to welcome you on my personal website! I am a senior Political Sc
 - For an overview of my (collaborative) research projects at the Collaborative Research Center "Political Economy of Reforms" and my independent research, please refer to "Projects".
 - Lastly, check out my academic record under "CV."
 
-Have fun!
 </div>
 
