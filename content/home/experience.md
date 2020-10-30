@@ -17,8 +17,9 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-<div style="text-align: justify;font-family:serif;">
+
 [[experience]]
+<div style="text-align: justify;font-family:serif;">
   title = "Teaching Assistant"
   company = "University of Mannheim"
   company_url = ""
