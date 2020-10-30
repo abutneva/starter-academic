@@ -29,14 +29,24 @@ date_format = "Jan 2006"
   description = "109 overall"
 
 [[item]]
-  organization = "German Academic Exchange Service"
+  organization = "German Academic Exchange Service (DAAD)"
   organization_url = ""
   title = " Study Scholarship for the best graduates of German Schools abroad"
   url = ""
   certificate_url = ""
   date_start = "2017-09-01"
   date_end = ""
-  description = "109 overall" 
+  description = "Awarded with one of four exclusive scholarships for the pursuit of a Bachelor’s degree in Germany" 
+
+[[item]]
+  organization = "European Forum Alpbach"
+  organization_url = ""
+  title = "Scholarship of the EFA – an Interdisciplinary Platform for Science, Politics, Business and Culture"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-08-01"
+  date_end = "2021-09-01"
+  description = "Discussant and speaker of the EFA’s 75th online conference 2020" 
 
 
 +++
