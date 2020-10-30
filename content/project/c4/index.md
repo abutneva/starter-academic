@@ -29,6 +29,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
+The C4 project is tasked with developing useful quantitative tools that make spatial placement of political actors possible. Having comparative measures enables researchers to test theories and has proven powerful in explaining important attributes of the political economy of reforms.
 
 Take a look at the [project page](https://reforms.uni-mannheim.de/projects/project_group_c/project_c4/) at the Collaborative Research Center "Political Economy of Reforms".
