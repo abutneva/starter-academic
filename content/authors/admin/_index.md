@@ -64,7 +64,7 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-<div style="text-align: justify;font-family:goudy old style;font-size:18px;"> 
+<div style="text-align: justify;font-family:serif;font-size:18px;"> 
 My name is Aleksandra, but most people call me Sasha, which is the shortened version of Aleksandra in several Eastern European countries. As my colleagues and students have asked this question multiple times, I decided to make it clear from the very beginning. Now, let me properly introduce myself to you.
   
 First of all, I am delighted to welcome you on my personal website! I am a senior Political Science and Economics student at the University of Mannheim in Germany. This website is intended for networking, teaching, and innovation purposes. As I participate in diverse research projects at the University of Mannheim and teach undergraduate/graduate level courses since 2019, research belongs to my key everyday activities. For this reason, I decided to share my teaching and research experience with you.
