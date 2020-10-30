@@ -27,6 +27,16 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "The Society for Political Methodology"
+  organization_url = ""
+  title = "One-year scholarship including free membership"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-07-01"
+  date_end = "2021-07-01"
+  description = ""
 
 [[item]]
   organization = "German Academic Exchange Service (DAAD)"
