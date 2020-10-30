@@ -2,7 +2,7 @@
 ---
 <div style="text-align: justify;font-family:serif;font-size:25px"> 
 title: "All life is an experiment. The more experiments you make the better. "
-subtitle: "Quoting Ralph Waldo Emerson"
+subtitle: "(c) Ralph Waldo Emerson"
 </div>:
 
 authors:
@@ -54,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [*Psychology Department*]'(https://www.yu.edu/yeshiva-college/ug/psychology)'
+  caption: 'Image credit: [**Psychology Department*](https://www.yu.edu/yeshiva-college/ug/psychology)'
   focal_point: ""
   preview_only: false
 
