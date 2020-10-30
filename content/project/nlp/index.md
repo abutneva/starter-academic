@@ -12,7 +12,7 @@ date: "2020-08-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: When Does Public Opinion Win?
+  caption: Boundaries of Innovation
   focal_point: Smart
 
 links:
@@ -33,3 +33,5 @@ url_video: ""
 slides: example
 ---
 Our project promotes innovation in e-health. We improve language processing for Russian and introduce a variety of terms related to telemedicine. We then implement NLP in Python and develop HTML-applications and interactive graphs that enhance reciprocal relationships between patients, doctors, and insurance.
+
+A program that I have written in Python is currently under review of the Federal Patent Service.
