@@ -71,6 +71,8 @@ projects: []
 ---
 <div style="text-align: justify;font-family:serif;font-size:18px;"> 
   
-*Even when we were little kids and did not (yet) know what causality is, our lives were already full of probabilistic causal relationships* Probabilistic causality occurs when an event has a certain chance to happen, but the probability that it will, indeed, happen is less than 100 percent. So, apples or oranges, Joe Biden or Donald Trump - it is all about probabilistic causality and not deterministic outcomes. Identifying and explaining causal relationships are primary goals of social sciences, and a good researcher always relies on four conditions of causality when conveying arguments.
+*Even when we were little kids and did not (yet) know what causality is, our lives were already full of probabilistic causal relationships* Probabilistic causality occurs when an event has a certain chance to happen, but the probability that it will, indeed, happen is less than 100 percent. So, apples or oranges, Joe Biden or Donald Trump - it is all about probabilistic causality and not deterministic outcomes. Identifying and explaining causal relationships are primary goals of social sciences, and a good researcher always relies on four conditions of causality - **association, causal mechanism, time ordering, and no alternative explanations** - when conveying well-justified arguments.
+
+However, the road of causality is *long and winding*, as Olaf Dekkers once said. We first need to master the scientific method to become causality experts. We start from the question and develop a theoretical explanation that is being tested based on our knowledge and, of course, anticipated causality. 
  
  *Find out more about finding causality in social sciences by taking a look at my [presentation](https://aleksandra-butneva.netlify.app/files/Tutorial_1.pdf) from Fall 2020.*
