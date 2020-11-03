@@ -29,6 +29,7 @@ publication: "*Designing experiments in political science as an undergraduate st
 publication_short: ""
 
 abstract: 
+<embed src="https://aleksandra-butneva.netlify.app/files/Tutorial 2.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="600px" />
 # Summary. An optional shortened abstract.
 summary: Living out creativity in political science experiments. 
 
@@ -64,8 +65,6 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-
-<embed src="https://aleksandra-butneva.netlify.app/files/Tutorial 2.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="600px" />
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
