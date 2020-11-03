@@ -74,9 +74,10 @@ projects: []
 slides: ""
 ---
 <div style="text-align: justify;font-family:serif;font-size:18px;"> 
-During the session on experimental research design, students are expected to learn about advantages and limitations of experiments in social sciences, as well as experimental ethics. How do I design an experiment? What questions could I answer by setting up an experiment? How do I maximise external and internal validity? 
+  
+*During the session on experimental research design, students are expected to learn about advantages and limitations of experiments in social sciences, as well as experimental ethics. How do I design an experiment? What questions could I answer by setting up an experiment? How do I maximise external and internal validity?*  
  
- Find out more by taking a look at my [presentation](https://aleksandra-butneva.netlify.app/files/Tutorial_2.pdf) from Fall 2020. 
+ *Find out more by taking a look at my [presentation](https://aleksandra-butneva.netlify.app/files/Tutorial_2.pdf) from Fall 2020.*
   
 Obviously, experimental research is not capable of answering every single question in PolSci. However, some hypotheses can be reasonably tested with setting up laboratory of field experiments. So, I think that it would be intriguing to ask prospective graduates, who do not have much research experience yet, about their vision of experiments. By  doing so, we can collect *inspiring ideas that might be developed into papers, which otherwise would not come to place*.
 
