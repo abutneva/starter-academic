@@ -65,6 +65,8 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 
+<embed src="files/Tutorial 2.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="600px" />
+
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
