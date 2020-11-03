@@ -1,8 +1,8 @@
 ---
 <div style="text-align: justify;font-family:serif;font-size:25px"> 
-title: "Man is so intelligent that he feels impelled to invent theories to account for what happens in the world. Unfortunately, he is not quite intelligent enough, in most cases, to find correct explanations. So that when he acts on his theories, he behaves very often like a lunatic. "
+title: "If you are the effect of it, you caused it."
 
-subtitle: "(c) Aldous Huxley"
+subtitle: "(c) Meir Ezra"
 </div>:
 authors:
 - Aleksandra Butneva
@@ -52,7 +52,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Infinite Space of Correlation Memes*](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Imagage credit: Pixabay*](https://pixabay.com/de/photos/frage-fragezeichen-umfrage-problem-2736480/)'
   focal_point: ""
   preview_only: false
 
