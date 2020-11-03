@@ -78,7 +78,9 @@ During the session on experimental research design, students are expected to lea
  
  Find out more by taking a look at my [presentation](https://aleksandra-butneva.netlify.app/files/Tutorial_2.pdf) from Fall 2020. 
   
-Obviously, experimental research is not capable of answering every single question in PolSci. However, some hypotheses can be reasonably tested with setting up laboratory of field experiments. So, I think that it would be intriguing to ask prospective graduates, who do not have much research experience yet, about their vision of experiments.
+Obviously, experimental research is not capable of answering every single question in PolSci. However, some hypotheses can be reasonably tested with setting up laboratory of field experiments. So, I think that it would be intriguing to ask prospective graduates, who do not have much research experience yet, about their vision of experiments. By  doing so, we collect inspiring ideas that might be developed into papers, which otherwise would not come to place.
 
 - My students Ann-Katrin and Anastasia suggested that **the more a person listens to country music, the more likely he or she is to fall into stereotypical views of men and women**. They proposed a **laboratory experiment**, using visual aids, e.g., videos and pictures that frame interactions between genders, for pre- and post testing of experiment participants.
+
+- Dima, Natalja, Rebecca,  and Martha came up with an interesting idea to answer the question whether **men are more likely to be hired for professional positions than woman** with a **natural experiment**. They suggested that 
 </div>
