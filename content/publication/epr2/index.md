@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Psychology Department*](https://www.yu.edu/yeshiva-college/ug/psychology)'
+  caption: 'Image credit: [**Pixabay*](https://pixabay.com/de/)'
   focal_point: ""
   preview_only: false
 
@@ -74,7 +74,11 @@ projects: []
 slides: ""
 ---
 <div style="text-align: justify;font-family:serif;font-size:18px;"> 
-During the session on experimental research design, students are expected to learn about advantages and limitations of experiments in social sciences, as well as experimental ethics. How do I design an experiment? What questions could I answer by setting up an experiment? How do I maximise external and internal validity? Find out more by taking a look at my [presentation](https://aleksandra-butneva.netlify.app/files/Tutorial_2.pdf) from Fall 2020. 
+During the session on experimental research design, students are expected to learn about advantages and limitations of experiments in social sciences, as well as experimental ethics. How do I design an experiment? What questions could I answer by setting up an experiment? How do I maximise external and internal validity? 
+ 
+ Find out more by taking a look at my [presentation](https://aleksandra-butneva.netlify.app/files/Tutorial_2.pdf) from Fall 2020. 
   
-Obviously, experimental research is not capable of answering every single question in PolSci. However, some hypotheses can be reasonably tested with setting up laboratory of field experiments. So, I think that it would be intriguing to ask prospective graduates, who do not have much research experience yet, about their vision of experiments. My students Ann-Katrin and Anastasia suggested that the more a person listens to country music, the more likely he or she is to fall into stereotypical views of men and women. They proposed a laboratory experiment, using visual aids (videos and pictures, depicting interactions between genders) for pre- and post testing of experiment participants.
+Obviously, experimental research is not capable of answering every single question in PolSci. However, some hypotheses can be reasonably tested with setting up laboratory of field experiments. So, I think that it would be intriguing to ask prospective graduates, who do not have much research experience yet, about their vision of experiments.
+
+- My students Ann-Katrin and Anastasia suggested that the more a person listens to country music, the more likely he or she is to fall into stereotypical views of men and women. They proposed a **laboratory experiment**, using visual aids (videos and pictures, depicting interactions between genders) for pre- and post testing of experiment participants.
 </div>
