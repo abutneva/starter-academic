@@ -68,7 +68,7 @@ user_groups:
 I am delighted to welcome you on my personal website! I am a senior Political Science and Economics student at the [University of Mannheim](https://www.sowi.uni-mannheim.de/en/academics/students/political-science/ba-in-political-science/) in Germany. This website is intended for networking, teaching, and innovation purposes. As I participate in diverse research projects at the University of Mannheim and teach undergraduate and graduate level courses since 2019, research belongs to my key everyday activities. For this reason, I decided to share my teaching and research experience with you.
 
 - I am teaching Empirical Political Research sessions in Fall 2020, so if this area interests you, you can refer to my presentations, affiliated literature, and projects delivered by my students under [Publications and Blog Posts](https://aleksandra-butneva.netlify.app/#featured). I am open to suggestions and constructive criticism!
-- For an overview of my (collaborative) research projects at the Collaborative Research Center [Political Economy of Reforms](https://reforms.uni-mannheim.de/) and my independent research, please refer to [Projects](https://aleksandra-butneva.netlify.app/#projects).
+- For an overview of my (collaborative) research projects at the Collaborative Research Center "Political Economy of Reforms" and my independent research, please refer to [Projects](https://aleksandra-butneva.netlify.app/#projects).
 - Lastly, check out my academic record under [CV](https://aleksandra-butneva.netlify.app/files/cv.pdf).
 
 </div>
