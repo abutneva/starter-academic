@@ -28,9 +28,7 @@ publication_types: ["4"]
 publication: "*Designing experiments in political science as an undergraduate student.*"
 publication_short: ""
 
-abstract: 
-<div style="text-align: justify;font-family:serif;font-size:18px;"> 
-During the session on experimental research design, students are expected to learn about advantages and limitations of experiments in social sciences, as well as experimental ethics. How do I design an experiment? What questions could I answer by setting up an experiment? How do I maximise external and internal validity? Find out more by taking a look at my [presentation](https://aleksandra-butneva.netlify.app/files/Tutorial_2.pdf) from Fall 2020.
+abstract: <div style="text-align: justify;font-family:serif;font-size:18px;"> During the session on experimental research design, students are expected to learn about advantages and limitations of experiments in social sciences, as well as experimental ethics. How do I design an experiment? What questions could I answer by setting up an experiment? How do I maximise external and internal validity? Find out more by taking a look at my [presentation](https://aleksandra-butneva.netlify.app/files/Tutorial_2.pdf) from Fall 2020.
 
 
 # Summary. An optional shortened abstract.
