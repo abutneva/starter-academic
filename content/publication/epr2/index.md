@@ -28,7 +28,9 @@ publication_types: ["4"]
 publication: "*Designing experiments in political science as an undergraduate student.*"
 publication_short: ""
 
-abstract: During the session on experimental research design, students are expected to learn about advantages and limitations of experiments in social sciences, as well as experimental ethics. How do I design an experiment? What questions could I answer by setting up an experiment? How do I maximise external and internal validity? Find out more by taking a look at my [presentation](https://aleksandra-butneva.netlify.app/files/Tutorial_2.pdf) from Fall 2020.
+abstract: 
+<div style="text-align: justify;font-family:serif;font-size:18px;"> 
+During the session on experimental research design, students are expected to learn about advantages and limitations of experiments in social sciences, as well as experimental ethics. How do I design an experiment? What questions could I answer by setting up an experiment? How do I maximise external and internal validity? Find out more by taking a look at my [presentation](https://aleksandra-butneva.netlify.app/files/Tutorial_2.pdf) from Fall 2020.
 
 
 # Summary. An optional shortened abstract.
@@ -74,4 +76,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+<div style="text-align: justify;font-family:serif;font-size:18px;"> 
 Obviously, experimental research is not capable of answering every single question in PolSci. However, some hypotheses can be reasonably tested with setting up laboratory of field experiments. So, I think that it would be intriguing to ask prospective graduates about possible questions that could be adressed via experiments. My students Ann-Katrin and Anastasia suggested that the more a person listens to country music, the more likely he or she is to fall into stereotypical views of men and women. They proposed a laboratory experiment, using visual aids (videos and pictures, depicting interactions between genders) for pre- and post testing of experiment participants.
