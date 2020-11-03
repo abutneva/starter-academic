@@ -28,8 +28,7 @@ publication_types: ["4"]
 publication: "*Designing experiments in political science as an undergraduate student.*"
 publication_short: ""
 
-abstract: 
-<embed src="https://aleksandra-butneva.netlify.app/files/Tutorial 2.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="600px" />
+abstract: During the session on experimental research design, students are expected to learn about advantages and limitations of experiments in social sciences, as well as experimental ethics. How do I design an experiment? What questions could I answer by setting up an experiment? How do I maximise external and internal validity? Find out more by taking a look at my [presentation](https://aleksandra-butneva.netlify.app/files/Tutorial 2.pdf) from the 2020 Fall class.
 # Summary. An optional shortened abstract.
 summary: Living out creativity in political science experiments. 
 
