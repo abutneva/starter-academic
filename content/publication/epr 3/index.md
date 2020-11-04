@@ -1,7 +1,7 @@
 ---
 <div style="text-align: justify;font-family:serif;font-size:25px"> 
-title: "All life is an experiment. The more experiments you make the better. "
-subtitle: "(c) Ralph Waldo Emerson"
+title: "Communication works for those who work at it."
+subtitle: "(c) John Powell"
 </div>:
 
 authors:
