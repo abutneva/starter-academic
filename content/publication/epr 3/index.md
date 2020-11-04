@@ -30,7 +30,7 @@ publication_short: ""
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Beyond research design strategy: do's and don't's in the academic writing.
+summary: Beyond research design strategy. Do's and don't's in the academic writing.
 
 tags:
 - empirical political research
