@@ -30,7 +30,7 @@ publication_short: ""
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Living out creativity in political science experiments. 
+summary: Beyond research design strategy: do's and don't's in the academic writing.
 
 tags:
 - empirical political research
@@ -74,7 +74,7 @@ slides: ""
 ---
 <div style="text-align: justify;font-family:serif;font-size:18px;"> 
 
-Communicating information in science is a challenging task, so after haven given feedback to many undergraduate research design papers, I realised that there are some common techniques that might help young researchers to convey their points in a more straightforward way. I present them below.
+*Communicating information in science is a challenging task, so after haven given feedback to many undergraduate research design papers, I realised that there are some common techniques that might help young researchers to convey their points in a more straightforward way. I present them below.*
 
 1. Remind the reader of your arguments before jumping into operationalisation and measurement. Summarise it in one sentence, e.g., since my theory attempts to explain lower political participation by the income gap, it would be reasonable to conduct a field experiment that tackles (…).
 
