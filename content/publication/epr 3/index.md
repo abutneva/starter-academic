@@ -89,6 +89,6 @@ In this example, I have operationalised educational performance (dependent varia
 
 5.	**Justify, justify, and, once again, justify.** Every research design strategy has shortcomings, so try to attach a “because” to your choices even if they are not perfect. By doing so, you will be less critisised for non-justified claims. For instance, writing “I select 100 respondents from each German federal state” would not help. Writing “Sample sizes will be determined, depending on the population size of every German federal state to increase sample representativeness” does.
 
-6.	**Finish by discussing limitations of your research design and speculating about the alternative ways of studying your research problem.** Write something like: my research design does not explain / capture / cover  X, Y, and Y. One could think about addressing X and Y by doing Z.
+6.	**Finish by discussing limitations of your research design and speculating about alternative ways of studying your research problem.** Write something like: my research design does not explain / capture / cover  X, Y, and Y. One could think about addressing X and Y by doing Z.
 
 </div>
