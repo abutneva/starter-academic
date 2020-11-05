@@ -91,4 +91,6 @@ In this example, I have operationalised educational performance (dependent varia
 
 6.	**Finish by discussing limitations of your research design and speculating about alternative ways of studying your research problem.** Write something like: my research design does not explain / capture / cover  X, Y, and Y. One could think about addressing X and Y by doing Z.
 
+ *Want to know more research design insides? Take a look at my [presentation](https://aleksandra-butneva.netlify.app/files/Tutorial_3.pdf) from Fall 2020.*
+
 </div>
