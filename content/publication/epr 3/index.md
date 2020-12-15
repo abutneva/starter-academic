@@ -24,7 +24,7 @@ publishDate: "2020-10-21T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Communicating research design.*"
+publication: "*Writing a good research design.*"
 publication_short: ""
 
 abstract: 
