@@ -36,7 +36,7 @@ height = "600px"
 
 [[item]]
   title = "Why care?"
-  content =  "- Need to learn how to conduct real research - Linear regression is not a panacea - Everybody wants good grades- Teachers are tired of receiving semi-optimal papers"
+  content =  "* Need to learn how to conduct real research * Linear regression is not a panacea * Everybody wants good grades * Teachers are tired of receiving semi-optimal papers"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
@@ -48,7 +48,7 @@ height = "600px"
   content = "No, it does not. High-quality papers need to be well-justified and analytical."
   align = "center"
 
-  overlay_color = "#333"  # An HTML color value.
+  overlay_color = "#555"  # An HTML color value.
   overlay_img = "back2.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 +++
