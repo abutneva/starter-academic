@@ -2,7 +2,7 @@
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
 # Slide interval.
@@ -37,10 +37,7 @@ height = "600px"
 [[item]]
   title = "Why care?"
   content =  "
-  - Need to learn how to conduct real research→→
-  - Linear regression is not a panacea→→
-  - Everybody wants good grades→→
-  - Teachers are tired of receiving semi-optimal papers"
+"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
