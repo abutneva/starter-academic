@@ -85,15 +85,15 @@ From my understanding, creating basic plots can be learned more easily than it i
 
 4.	**Understand a baseline coding example and not forget about using “+” for each layer**. Finally, you should know what the commands below do to create a line graph (I use # to comment):
 
-*ggplot(my_data,                                                                  # specify data
+*ggplot(my_data*                                                                 # specify data
 
- aes(x = independent_var, y = dependent_var)) +                                  # specify variables
+*aes(x = independent_var, y = dependent_var)) +*                                 # specify variables
  
-geom_line() +                                                                    # draw a line
+*geom_line() +*                                                                  # draw a line
 
-theme_minimal() +                                                                # choose the background
+*theme_minimal() +*                                                              # choose the background
 
-ggtitle("My Title")                                                              # add a title*
+*ggtitle("My Title")*                                                            # add a title*
 
 If you can understand those commands, you are well prepared to read ggplot2 tutorials and master data visualization. Good luck!
 
