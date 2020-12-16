@@ -11,13 +11,13 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = ""
+height = "800px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Finding appropriate methodology for your undergraduate term paper"
-  content = "Quick and dirty tips for powerful methods"
+  content = "Quick and dirty tips for screening through powerful data science methods"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -35,20 +35,25 @@ height = ""
   cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
+  title = "Why care?"
+  content = " - Need to learn how to conduct "real" research
+              - Linear regression is not a panacea
+              - Everybody wants good grades
+              - Teachers are tired of receiving semi-optimal papers"
+  
+
+  align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_img = "back2.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
+  title = "Does quantitative equal good?"
+  content = "No, it does not. High.quality papers need to be well-justified and analytical."
+  align = "center"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_img = "back2.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 +++
