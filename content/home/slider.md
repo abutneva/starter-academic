@@ -50,7 +50,7 @@ height = "800px"
 
 [[item]]
   title = "Does quantitative equal good?"
-  content = "No, it does not. High.quality papers need to be well-justified and analytical."
+  content = "No, it does not. High-quality papers need to be well-justified and analytical."
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
