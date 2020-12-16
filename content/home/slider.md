@@ -40,8 +40,6 @@ height = "800px"
               - Linear regression is not a panacea
               - Everybody wants good grades
               - Teachers are tired of receiving semi-optimal papers"
-  
-
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
