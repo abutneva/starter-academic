@@ -85,7 +85,7 @@ From my understanding, creating basic plots can be learned more easily than it i
 
 4.	**Understand a baseline coding example and not forget about using “+” for each layer**. Finally, you should know what the commands below do to create a line graph (I use # to comment):
 
-*ggplot(my_data*                                                                 # specify data
+*ggplot(my_data,*                                                                 # specify data
 
 *aes(x = independent_var, y = dependent_var)) +*                                 # specify variables
  
