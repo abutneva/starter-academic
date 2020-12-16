@@ -1,7 +1,7 @@
 ---
 <div style="text-align: justify;font-family:serif;font-size:25px"> 
-title: "Communication works for those who work at it."
-subtitle: "(c) John Powell"
+title: "Mankind invented a system to cope with the fact that we are so intrinsically lousy at manipulating numbers. It's called the graph."
+subtitle: "(c) Charlie Munger"
 </div>:
 
 authors:
@@ -24,17 +24,17 @@ publishDate: "2020-10-21T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Writing a good research design.*"
+publication: "*First steps in coding graphs.*"
 publication_short: ""
 
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Beyond research design strategy. Do's and don't's in the academic writing.
+summary: The magic of powerful plots.
 
 tags:
-- empirical political research
-- methods
+- data science
+- R
 - data visualization
 
 featured: true
@@ -85,11 +85,15 @@ From my understanding, creating basic plots can be learned more easily than it i
 
 4.	**Understand a baseline coding example and not forget about using “+” for each layer**. Finally, you should know what the commands below do to create a line graph (I use # to comment):
 
-ggplot(my_data,                                                                  # specify data
+*ggplot(my_data,                                                                  # specify data
+
  aes(x = independent_var, y = dependent_var)) +                                  # specify variables
+ 
 geom_line() +                                                                    # draw a line
+
 theme_minimal() +                                                                # choose the background
-ggtitle("My Title")                                                              # add a title
+
+ggtitle("My Title")                                                              # add a title*
 
 If you can understand those commands, you are well prepared to read ggplot2 tutorials and master data visualization. Good luck!
 
