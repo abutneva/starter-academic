@@ -36,8 +36,7 @@ height = "600px"
 
 [[item]]
   title = "Why care?"
-  content =  "
-"
+  content =  ""
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
