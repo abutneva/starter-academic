@@ -81,7 +81,9 @@ From my understanding, creating basic plots can be learned more easily than it i
 
 2.	**The next step is to learn basic commands**: *install.packages(ggplot)* and *library(ggplot)*. Imagine that you want to borrow a book in a library, so you first pick the desired book from a shelf (i.e., “install the package”) and then show it to the librarian so that he/she notes your book as borrowed in the system or activates it (the “library” part of our code). So, we need a book called “ggplot” that allows creating beautiful graphs with intuitive commands.
 
-3.	**Understand the structure of code**. Ggplot works with labels, so it is necessary to tell him what the basic layer is and then include more sophisticated code. For the beginners, this implies following the principle of minimal effort: **data/axes first, lines/points/theme second, custom titles/text/legend/miscellaneous last**. In other words, we need to tell our graph-builder that (1) we want to visualize particular data and one/two (or more) variables, which should be plotted along X and Y axes; (2) we then add a line or data points to our XY-plane that was designed in the first step and choose a background; (3) and we do everything else once the basic structure is established.
+3.	**Understand the structure of code**. Ggplot works with labels, so it is necessary to tell him what the basic layer is and then include more sophisticated code. For the beginners, this implies following the principle of minimal effort: **data/axes first, lines/points/theme second, custom titles/text/legend/miscellaneous last**.
+
+In other words, we need to tell our graph-builder that: (1) we want to visualize particular data and one/two (or more) variables, which should be plotted along X and Y axes; (2) we then add a line or data points to our XY-plane that was designed in the first step and choose a background; (3) and we do everything else once the basic structure is established.
 
 4.	**Understand a baseline coding example and not forget about using “+” for each layer**. Finally, you should know what the commands below do to create a line graph (I use # to comment):
 
