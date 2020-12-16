@@ -11,11 +11,11 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2020-10-20T00:00:00Z"
+date: "2020-12-20T00:00:00Z"
 doi: 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-12-21T00:00:00Z"
+publishDate: "2020-10-21T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -73,6 +73,7 @@ projects: []
 slides: ""
 ---
 <div style="text-align: justify;font-family:serif;font-size:18px;"> 
+**
 
 When I just started my journey with R, I sincerely did not understand why the graphs are so important as everybody talks about them. The academic truth is that graphs are more than important – they are pivotal. If a scientist is a wizard, data visualization part is his/her magic wand. **Graphs depict anticipated trends and relationships, reveal outliers, deliver descriptive and causal insides about the data**.
 From my understanding, creating basic plots can be learned more easily than it is commonly believed by students who study humanities and have absolutely no experience in coding. Let me give you a non-technical introduction into data visualization with R (assuming that you do not know what R is):
@@ -100,7 +101,5 @@ In other words, we need to tell our graph-builder that: (1) we want to visualize
 If you can understand those commands, you are well prepared to read ggplot2 tutorials and master data visualization. Good luck!
 
  *Want to know more data visualization insides? Take a look at my [presentation](https://aleksandra-butneva.netlify.app/files/Tutorial_6.pdf) from Fall 2020.*
- 
-**
 
 </div>
