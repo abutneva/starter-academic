@@ -93,7 +93,7 @@ From my understanding, creating basic plots can be learned more easily than it i
 
 *theme_minimal() +*                                                              # choose the background
 
-*ggtitle("My Title")*                                                            # add a title*
+*ggtitle("My Title")*                                                            # add a title
 
 If you can understand those commands, you are well prepared to read ggplot2 tutorials and master data visualization. Good luck!
 
