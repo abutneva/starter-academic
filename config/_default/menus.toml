@@ -16,7 +16,7 @@
 [[main]]
   name = "Slides"
   url = "#slider"
-  weight = 50
+  weight = 35
   
 [[main]]
   name = "Publications and Blog Posts"
