@@ -53,7 +53,7 @@ height = "600px"
 
   overlay_color = "#555"  
   # An HTML color value.
-  overlay_img = "methods2.jpg"
+  overlay_img = "methods1.jpg"
   # Image path relative to your `static/media/` folder.
   overlay_filter = 0  
   # Darken the image. Value in range 0-1.
@@ -65,7 +65,7 @@ height = "600px"
 
   overlay_color = "#555"  
   # An HTML color value.
-  overlay_img = "methods2.jpg"
+  overlay_img = "methods1.jpg"
   # Image path relative to your `static/media/` folder.
   overlay_filter = 0 
   # Darken the image. Value in range 0-1.
@@ -77,19 +77,19 @@ height = "600px"
 
   overlay_color = "#555"  
   # An HTML color value.
-  overlay_img = "methods2.jpg"  
+  overlay_img = "methods1.jpg"  
   # Image path relative to your `static/media/` folder.
   overlay_filter = 0 
   # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "(Generalized) Regression Models"
+  title = "Regression Models"
   content = "if you are interested in correlation and causality, i.e., how do different factors (independent variables) influence outcomes, check out the classical way of studying PolSci questions. For instance, if you want to know whether party identification of one’s family members directly affects their voting choices, you need to regress the fellow party ID on respondents’ voting preferences. This can be done by using regression models where the expected change in Y is determined by changes in distinct X-s. Depending on where the data about the proposed X-Y relationship comes from (data generation process), researchers can choose functional forms, i.e., how the statistical model will look like."
   align = "center"
 
   overlay_color = "#555"  
   # An HTML color value.
-  overlay_img = "methods2.jpg" 
+  overlay_img = "methods1.jpg" 
   # Image path relative to your `static/media/` folder.
   overlay_filter = 0 
   # Darken the image. Value in range 0-1.
@@ -101,7 +101,7 @@ height = "600px"
 
   overlay_color = "#555" 
   # An HTML color value.
-  overlay_img = "methods2.jpg"
+  overlay_img = "methods1.jpg"
   # Image path relative to your `static/media/` folder.
   overlay_filter = 0 
   # Darken the image. Value in range 0-1.
@@ -113,7 +113,7 @@ height = "600px"
 
   overlay_color = "#555"  
   # An HTML color value.
-  overlay_img = "methods2.jpg" 
+  overlay_img = "methods1.jpg" 
   # Image path relative to your `static/media/` folder.
   overlay_filter = 0 
   # Darken the image. Value in range 0-1.
