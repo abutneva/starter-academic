@@ -35,20 +35,8 @@ height = "600px"
   cta_icon = "graduation-cap"
 
 [[item]]
-  title = ""
-  content = " Building a profound foundation in research methodology is crucial, as only appropriately chosen methods  can validate a well-derived theory, which we want to achieve and actively promote in teaching and research."
-  align = "center"
-
-  overlay_color = "#555"  
-  # An HTML color value.
-  overlay_img = "back2.jpg" 
-  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0  
-  # Darken the image. Value in range 0-1.
-
-[[item]]
   title = "Why care?"
-  content = "Many undergraduate students are puzzled with the question of how to test their research ideas empirically. In this short presentation one can find common quantitative methods for studying different research questions in PolSci based on Kozuke Imai’s book “Quantitative Social Science” and answer this challenging question for her or himself."
+  content = " Building a profound foundation in research methodology is crucial, as only appropriately chosen methods  can validate a well-derived theory, which we want to achieve and actively promote in teaching and research. Many undergraduate students are puzzled with the question of how to test their research ideas empirically. In this short presentation one can find common quantitative methods for studying different research questions in PolSci based on Kozuke Imai’s book “Quantitative Social Science” and answer this challenging question for her or himself."
   align = "center"
 
   overlay_color = "#555" 
