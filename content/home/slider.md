@@ -22,8 +22,8 @@ height = "600px"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "000"  # An HTML color value.
-  overlay_img = "back1.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_color = "#000"  # An HTML color value.
+  overlay_img = "methods1.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
