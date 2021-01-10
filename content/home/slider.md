@@ -35,7 +35,7 @@ height = "600px"
   cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Methodological Explosion for Undergrads"
+  title = ""
   content = " Building a profound foundation in research methodology is crucial, as only appropriately chosen methods  can validate a well-derived theory, which we want to achieve and actively promote in teaching and research."
   align = "center"
 
