@@ -31,4 +31,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Our project targets public sentiment changes in Twitter induced by the world pandemic. We analyze tweets in different languages, implementing biterm topic models in R. 
+Heads of government all over the world use Twitter to express their opinions and choices, support electoral campaigns, and engage in dialogue with citizens. Especially during the ongoing COVID-19 pandemic – an enormous shock hurting economies, societies, and cultures – virtual communication has become  the predominant (and safest) form of interpersonal exchange, subsequently gaining influence on people’s behavior. 
+
+How can we grasp and measure the impact of political leaders‘ communication strategies on the perception and attitudes towards the COVID-19 pandemic and its consequences for our everyday reality? And how does message delivery differ across politicians and why? Using Biterm Topic Models and advanced quantitative text analysis methods in R, this project investigates patterns of Corona-related political communication with Twitter data from January to August 2020 for over hundred heads of government.  
