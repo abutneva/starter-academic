@@ -9,7 +9,7 @@ tags:
 date: "2021-01-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://ieml.ru/news/16356/"
+external_link: "http://www.fa.ru/org/faculty/fm/News/2021-01-11-rid_Gumerova.aspx"
 
 image:
   caption: 
