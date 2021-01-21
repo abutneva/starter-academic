@@ -26,7 +26,7 @@
 [[main]]
   name = "Web Presence"
   url = "#web_presence"
-  weight = 45
+  weight = 35
 
 
 # Link to a PDF of your resume/CV from the menu.
