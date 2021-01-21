@@ -1,6 +1,6 @@
 ---
 title: Interview for the myUniMA story - August 2020
-summary: Studying in Mannheim Allows Me to Perfectly Combine Research and Student Life [ENG] [GE]
+summary: Studying in Mannheim Allows Me to Perfectly Combine Research and Student Life [ENG] [DE]
 tags:
 - Interview
 - University of Mannheim
