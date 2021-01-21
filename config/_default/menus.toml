@@ -16,12 +16,17 @@
 [[main]]
   name = "Slides"
   url = "#slider"
-  weight = 25
+  weight = 50
   
 [[main]]
   name = "Publications and Blog Posts"
   url = "#featured"
   weight = 40
+ 
+[[main]]
+  name = "Web Presence"
+  url = "#web_presence"
+  weight = 45
 
 
 # Link to a PDF of your resume/CV from the menu.
