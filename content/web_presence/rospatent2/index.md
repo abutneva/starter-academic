@@ -1,5 +1,5 @@
 ---
-title: An international team of authors developed a computer program for e-health confirmed by the Russian Federal Patent Service
+title: An international team of authors developed a computer program for e-health, the Russian Federal Patent Service confirms
 summary: NLP - a cutting-edge technology bridging human and computer languages. [RU]
 tags:
 - Python
