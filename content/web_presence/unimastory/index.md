@@ -1,6 +1,6 @@
 ---
 title: Scholars of The Kazan Innovative Univesity - pioneers of novel scientific developments
-summary: Last year, KIU has patented several unique works created by the university scholars and researchers, confirming its reputation as an innovative institution. [RU]
+summary: Last year, KIU patented several unique works created by the university scholars and researchers, confirming its reputation as an innovative institution. [RU]
 tags:
 - Python
 - SpaCy
