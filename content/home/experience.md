@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Mannheim, Germany"
   date_start = "2019-10-01"
-  date_end = "2021-31-01"
+  date_end = "2021-01-31"
   description = ""
   
  [[experience]]
