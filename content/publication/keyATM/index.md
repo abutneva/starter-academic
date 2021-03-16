@@ -39,9 +39,9 @@ tags:
 
 featured: true
 
- links:
- - name: "Conference announcement by the IPSA"
- - url: "https://www.ipsa.org/na/event/lseupr-annual-undergraduate-conference-2021"
+# links:
+# - name: "Conference announcement by the IPSA"
+# - url: "https://www.ipsa.org/na/event/lseupr-annual-undergraduate-conference-2021"
 url_pdf: 
 url_code: ''
 url_dataset: ''
