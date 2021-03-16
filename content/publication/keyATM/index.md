@@ -24,7 +24,7 @@ publication_types: ["3"]
 # Publication name and optional abbreviated publication name.
 publication: "*Do salient international events change the substance 
 of issues that are dealt with in constitutional 
-courts<ß*"
+courts?*"
 publication_short: ""
 
 abstract: 
