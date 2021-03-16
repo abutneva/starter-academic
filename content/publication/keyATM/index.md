@@ -29,7 +29,7 @@ publication_short: ""
 
 abstract: 
 # Summary. An optional shortened abstract.
-summary: Causal relationships in social sciences made simple. 
+summary: Looking into the topic composition and so understanding the material substance of constitutional complaints will, on the one hand, cast a novel perspective on the linkage between Constitutional Courts and public opinion. On the other hand, using international crises as random shocks for causal identification via topic models will extend the methodological pool of tools available for the empirical assessment of reciprocal relationships among citizens, law, and politics. 
 
 tags:
 -  law as data
