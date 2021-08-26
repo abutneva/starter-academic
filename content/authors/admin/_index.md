@@ -29,7 +29,7 @@ education:
   - course: Bachelor of Arts in Political Science 
     institution: University of Mannheim
     year: 2021 (with distinction)
-    - course: Master of Science in Cyber Risk Strategy and Governance
+  - course: Master of Science in Cyber Risk Strategy and Governance
     institution: Bocconi University 
     year: 2023 (in progress)
     
