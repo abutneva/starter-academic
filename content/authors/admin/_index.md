@@ -10,10 +10,10 @@ role: Research Assistant at the Chair for Quantitative Methods in Social Science
 
 # Organizations/Affiliations
 organizations:
-- name: University of Mannheim
-  url: "https://www.sowi.uni-mannheim.de/gschwend/team/research-assistants/"
 - name: Bocconi University 
   url: "https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/master+of+science/Cyber+Risk+Strategy+and+Governance/"
+- name: University of Mannheim
+  url: "https://www.sowi.uni-mannheim.de/gschwend/team/research-assistants/"
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Research Assistant and at the University of Mannheim in Germany, Chair for Quantitative Methods in Social Sciences. I research at the intersection of data science, political methodology, and comparative politics. I specialize in machine learning and innovation management, developing NLP-based applications for political science questions.
 
@@ -71,7 +71,7 @@ user_groups:
 I am delighted to welcome you on my personal website! I am a first-year Master of Science in Cyber Risk Strategy and Governance student at the Bocconi University and Politecnico di Milano. This website is intended for networking and teaching. As I participate in diverse research projects at the University of Mannheim  and teach undergraduate- and graduate-level sessions since 2019, research belongs to my key everyday activities. For this reason, I decided to share my teaching and research experience with you.
 
 - I taught Empirical Political Research sessions in Fall 2020, so if this area interests you, you can refer to my presentations, affiliated literature, and projects delivered by my students under [Publications and Blog Posts](https://aleksandra-butneva.netlify.app/#featured). I am open to suggestions and constructive criticism!
-- For an overview of my (collaborative) research projects at the Collaborative Research Center "Political Economy of Reforms" and my independent research, please refer to [Projects](https://aleksandra-butneva.netlify.app/#projects).
+- For an overview of my (collaborative) research projects at the Collaborative Research Center "Political Economy of Reforms", The School of Business Informatics, and the MZES (The Mannheim Centre for European Social Research), as well as my independent research, please refer to [Projects](https://aleksandra-butneva.netlify.app/#projects).
 - Check out my academic record under [CV](https://aleksandra-butneva.netlify.app/files/cv.pdf).
 
 </div>
