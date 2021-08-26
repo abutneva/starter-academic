@@ -67,11 +67,11 @@ user_groups:
 - Researchers
 ---
 <div style="text-align: justify;font-family:serif;font-size:18px;"> 
-I am delighted to welcome you on my personal website! I am a senior Political Science and Economics student at the University of Mannheim in Germany. This website is intended for networking and teaching. As I participate in diverse research projects at the University of Mannheim and teach undergraduate- and graduate-level sessions since 2019, research belongs to my key everyday activities. For this reason, I decided to share my teaching and research experience with you.
+I am delighted to welcome you on my personal website! I am a first-year Master of Science in Cyber Risk Strategy and Governance student at the Bocconi University and Politecnico di Milano. This website is intended for networking and teaching. As I participate in diverse research projects at the University of Mannheim  and teach undergraduate- and graduate-level sessions since 2019, research belongs to my key everyday activities. For this reason, I decided to share my teaching and research experience with you.
 
-- I am teaching Empirical Political Research sessions in Fall 2020, so if this area interests you, you can refer to my presentations, affiliated literature, and projects delivered by my students under [Publications and Blog Posts](https://aleksandra-butneva.netlify.app/#featured). I am open to suggestions and constructive criticism!
+- I taught Empirical Political Research sessions in Fall 2020, so if this area interests you, you can refer to my presentations, affiliated literature, and projects delivered by my students under [Publications and Blog Posts](https://aleksandra-butneva.netlify.app/#featured). I am open to suggestions and constructive criticism!
 - For an overview of my (collaborative) research projects at the Collaborative Research Center "Political Economy of Reforms" and my independent research, please refer to [Projects](https://aleksandra-butneva.netlify.app/#projects).
-- Lastly, check out my academic record under [CV](https://aleksandra-butneva.netlify.app/files/cv.pdf).
+- Check out my academic record under [CV](https://aleksandra-butneva.netlify.app/files/cv.pdf).
 
 </div>
 
