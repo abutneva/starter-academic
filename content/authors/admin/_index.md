@@ -6,7 +6,7 @@ title: Aleksandra Butneva
 superuser: true
 
 # Role/position
-role: Research Assistant at the Chair for Quantitative Methods in Social Sciences  
+role: Research Assistant at the Chair for Quantitative Methods in Social Sciences and the School of Business Informatics 
 
 # Organizations/Affiliations
 organizations:
@@ -18,10 +18,9 @@ bio: I am a Research Assistant and at the University of Mannheim in Germany, Cha
 
 <div style="text-align: justify;font-family:serif;font-size:16px"> 
 interests:
-- Political Methodology
-- Comparative Politics 
-- Game Theory
-- Computational Linguistics
+- Quantitative and computational methods in social sciences
+- Software engineering
+- Cybersecurity
 </div>:
 
 education:
