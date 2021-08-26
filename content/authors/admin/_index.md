@@ -12,7 +12,8 @@ role: Research Assistant at the Chair for Quantitative Methods in Social Science
 organizations:
 - name: University of Mannheim
   url: "https://www.sowi.uni-mannheim.de/gschwend/team/research-assistants/"
-
+- name: Bocconi University 
+  url: "https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/master+of+science/Cyber+Risk+Strategy+and+Governance/"
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Research Assistant and at the University of Mannheim in Germany, Chair for Quantitative Methods in Social Sciences. I research at the intersection of data science, political methodology, and comparative politics. I specialize in machine learning and innovation management, developing NLP-based applications for political science questions.
 
